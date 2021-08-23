@@ -1,6 +1,9 @@
 # IIR新生訓練python_HW
 ## 執行方式
 * Google Drive Colab Notebook
+* 檔案下載：
+
+    https://drive.google.com/file/d/1H1KOMeOd5E1wFBDAPlbslKT1rnVvJeX-/view?usp=sharing
 ## 處理方式
 * #### read sales_train.csv:
 1. 讀取所有資料，並判斷此資料月份
